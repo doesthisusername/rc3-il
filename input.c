@@ -1,4 +1,4 @@
-#include "../npea00387.h"
+#include "npea00387.h"
 
 // binds
 #define BTN_ACTION (BTN_L2 | BTN_R2)
